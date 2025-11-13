@@ -98,4 +98,3 @@ The **Bidirectional GRU** achieved the highest accuracy of **0.8850** and the lo
 | I heard a strange noise downstairs, I'm too scared to look. | **fear** |
 | He quit? Without any notice? I'm stunned. | **surprise** |
 
----
