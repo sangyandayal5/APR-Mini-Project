@@ -4,6 +4,8 @@
 
 **By Group 10**
 
+## Deployed Project Link : https://huggingface.co/spaces/sangyan5/Emotion-Detector
+
 ---
 ## Project Overview
 
