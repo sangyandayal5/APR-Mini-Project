@@ -6,6 +6,8 @@
 
 ## Deployed Project Link : https://huggingface.co/spaces/sangyan5/Emotion-Detector
 
+<img width="1915" height="905" alt="image" src="https://github.com/user-attachments/assets/84750e78-38db-43cb-9957-05d013997d1b" />
+
 ---
 ## Project Overview
 
@@ -100,3 +102,4 @@ The **Bidirectional GRU** achieved the highest accuracy of **0.8850** and the lo
 | I heard a strange noise downstairs, I'm too scared to look. | **fear** |
 | He quit? Without any notice? I'm stunned. | **surprise** |
 
+<img width="1793" height="909" alt="image" src="https://github.com/user-attachments/assets/d3828a28-05da-4974-93a2-a5c93c835057" />
